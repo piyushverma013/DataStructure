@@ -49,6 +49,10 @@ public class IterativeReverseLinkedList {
 	
 	// fuction to reverse the LinkedList
 	static Node reverseList(Node head) {
+		
+		if(head == null || head.next == null)
+	          return head;
+		
 		Node current = head;
 		Node next = null;
 		Node prev = null;
