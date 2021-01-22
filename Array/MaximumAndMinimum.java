@@ -40,7 +40,7 @@ public class MaximumAndMinimum {
 			if(arr[i] < max)
 			max = arr[i];
 			
-			if(arr[i] > min)
+			else if(arr[i] > min)
 			min = arr[i];
 		}
 		   ans[0] = max;
