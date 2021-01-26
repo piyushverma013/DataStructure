@@ -46,7 +46,8 @@ public class FirstNodeinLoop {
 		if(result) {
 			System.out.println("Loop exist");
 			
-			Node ans = firsr_node(head);
+			System.out.println("First Node in loop is: ");
+			Node ans = first_node(head);
 			System.out.println(ans.data);
 		}
 		else
@@ -95,7 +96,7 @@ public class FirstNodeinLoop {
 	}
 	
 	// function to find first node in loop of linked list
-	static Node firsr_node(Node head){
+	static Node first_node(Node head){
 		
 		if(head == null || head.next == null)
 			return null;
