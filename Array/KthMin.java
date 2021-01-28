@@ -15,7 +15,7 @@ public class KthMin {
 		    
 		System.out.println("Enter kth element: ");
 		int k = obj.nextInt();
-	    System.out.println("Kth smallest is: ");
+	        System.out.println("Kth smallest is: ");
 		System.out.println(kthSmallest(arr, k));
 	}
 	
