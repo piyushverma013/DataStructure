@@ -15,6 +15,7 @@ public class KthMax {
 		    
 		System.out.println("Enter kth element: ");
 		int k = obj.nextInt();
+		System.out.println("Kth largest is: ");
 		System.out.println(kthLargest(arr, k));
 	}
 	
