@@ -17,7 +17,7 @@ public class LeftViewOfTree {
 		System.out.println("Root node is: "+ root.data);
 		
 		System.out.println("Left View is:");
-		ArrayList<Integer> res = left_View(root); // getting all the level nodes in a list
+		ArrayList<Integer> res = left_View(root); // getting all the left nodes in a list
 		for(int num : res) {
 			System.out.print(num+ " ");
 		}
