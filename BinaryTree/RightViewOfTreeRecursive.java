@@ -51,8 +51,8 @@ public class RightViewOfTreeRecursive {
 	}
 	
 	// Utility function to add all the right visible nodes
-	static int max_level = 0;
-	static void right_viewUtil(Node root, int level, ArrayList<Integer> ans) {
+	int max_level = 0;
+	void right_viewUtil(Node root, int level, ArrayList<Integer> ans) {
 		
 		if(root == null)
 			return;
