@@ -51,8 +51,8 @@ public class LeftViewOfTreeRecursive {
 	}
 	
 	// Utility function to add all the left visible nodes
-	static int max_level = 0;
-	static void leftleft_ViewUtil(Node root, int level, ArrayList<Integer> ans) {
+	int max_level = 0;
+	void leftleft_ViewUtil(Node root, int level, ArrayList<Integer> ans) {
 		
 		if(root == null)
 			return;
