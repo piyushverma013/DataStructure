@@ -89,3 +89,29 @@ public class LeafAtSameLevelOrNot {
 		return true;
 	}
 }
+
+
+// Recursive way of checking if leaf nodes are at same level or not.
+/*
+    int leaf_level = 0;
+    boolean check(Node root)
+    {
+	// Your code here
+	  int level = 0;
+	  return checkUtil(root, level);
+    }
+    
+    boolean checkUtil(Node root, int level) {
+        if(root == null)
+          return true;
+        if(root.left == null && root.right == null) {
+            if(leaf_level == 0) {
+              leaf_level = level;
+              return true;
+            }
+            else
+              return leaf_level == level;
+        }
+        return checkUtil(root.left, level+1) && checkUtil(root.right, level+1);
+    }
+*/
