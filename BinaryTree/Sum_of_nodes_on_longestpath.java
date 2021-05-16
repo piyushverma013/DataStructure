@@ -37,7 +37,7 @@ public class Sum_of_nodes_on_longestpath {
 		return root;
 	}
 	
-	// Utility function to calculate the sum on longest path
+	// function to calculate the sum on longest path
 	static int max_sum = 0;
 	static int max_len = 0;
 	static int sumonLongestPath(Node root) {
@@ -48,7 +48,7 @@ public class Sum_of_nodes_on_longestpath {
 		return max_sum;
 	}
 	
-	// function to calculate the sum on longest path
+	// Utility function to calculate the sum on longest path
 	static void sumonLongestPathUtil(Node root, int sum, int len) {
 		if(root == null) {
 			if(max_len < len) {
