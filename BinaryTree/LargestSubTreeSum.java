@@ -46,7 +46,7 @@ public class LargestSubTreeSum {
 		return ans;
 	}
 	
-	//Utility function to calculate largest subtree sum
+	//utility function to calculate largest subtree sum
 	static int findLargestSubtreeSumUtil(Node root) {
 		if(root == null)
 			return 0;
