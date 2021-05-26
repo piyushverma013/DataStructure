@@ -1,0 +1,300 @@
+Tasks to be done :
+1.    Properly login to ultimatix to change default password and set new password for ultimatix
+2.    Download uxapp and ultimatix authenticator app on mobile.
+3.    Login to ultimatix.
+4.    Set five secret questions.
+5.    Set India Domain Password.
+6.    Once you get “select email” option on GESS complete selecting TCS mail.
+7.    Be alert on mailers from ion community regarding schedule.
+
+
+
+
+        ============================================================================================
+
+
+
+
+
+
+
+exchange mail-----------user name ---------e id
+pwd----------------------------------------india domain pwd
+
+
+
+
+
+-------------------Next Session(Start from screenshot 68)-----------------------
+
+1. TCS experience schedule....go to the link and give batch name to get the schedule
+2. SWON NO. (Service Work Order Number) = 1053657 Bangalore Think Campus
+3. Steps to fill timesheet
+4. From monday fill time sheet before 10 am
+
+
+5. When receive the TCS ASSET ---------> Confirm the sbws undertaking
+
+
+6. Complete mandatory course within 5 days in Ultimatix
+
+I    Information Security Awareness – Main Course_LCS_WBT     43893    Not Any    Day 3
+Ii    iSecurity Quiz_WBT    7408    43893    Day 3
+Iii    GDPR_WBT (having prerequisite - 64091- > Data Privacy – English WBT)    55220    64091    Day 3
+iv    Process : Basic IP Awareness WBT    67539    Not Any    Day 4
+V    Process : Basic IP Awareness Assessment    67501    67539    Day 4
+Vi    Tata Code of Conduct: Awareness and Allegiance     21939    Not Any    Day 4
+Vii    Awareness on Policy for Prevention of Sexual Harassment _LCS_WBT     2735    Not Any    Day 5
+
+
+
+
+
+7.Once you make first successful login into ultimatix portal using authode/new ultimatix password you will be able to access Knome community
+  To access your community : Go to KNOME hompage -> left side panel click on "My communities" -> find the name of your community
+  The documents can be checked from below path:
+  Ultimatix - Menu - Applications 
+  - Learning & Collaboration - Knome - My communities - go to the community for your batch 
+  - on the homepage of the community towards left side in the panel click on media directory 
+  - click on ready reckoner folder 
+  - inside this folder you will find the mentioned documents
+
+
+
+
+8. For PF and nomination issues:
+   Ultimatix > Employee Services > TCS Global Helpdesk > IT Service and Others > Raise New IT/HR/Admin/IRC/Other ticket > HR Services > Corporate Retirals services – Retiral : PF and Pension, Nominations, SA, GF, UAN, NPS and NRW
+
+9. Fill the declaration kit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============================19/04/2021===============================
+
+
+
+1. Take initative:
+-- Do not wait for something to happen, start it today, because sometimes later becomes never.
+-- Take responsiblity to start, take initiative to be a leader and lead from the front.
+
+2. Seek challenge:
+-- DO not get afraid of failures. 
+-- Do challenging things,coz what comes easy wont last long.
+
+3. Be accountable
+-- Know what you are doing and what you did so far.
+-- Know what you did wrong and know how to correct it and find ways not to recurr those mistakes again.
+
+4. Maintain say/Do ratio
+-- Say what you do, do what you say.
+-- Be realistic, don't make unnecessary promises or commitments.
+
+5. Listen
+-- Listen before u speak.
+-- The more you listen, the more you understand.
+
+6. Be inclusive
+-- Have your predefined plan of action and do not depend/beleive on preconceived notions.
+-- Pitch yourself properly by breifing and covering every aspect of your work/project.
+
+
+7. Give your 100%
+-- It is a matter of luck if the floors are not found, It is a wrong thing to not even try.
+-- Coz the more you learn, the more you earn.
+
+8. Have a growth mindset
+-- Try to learn everyday
+-- Have a mindset to think and grow rich not by money but with other aspects such as health as well.
+
+
+9. Unlearn
+-- Try to change your thoughts, if you are not coming to the solution with your approach.
+-- Unlearn the bad habbits maybe - any addiction
+
+10. Consumer to contributor
+-- Alway give a good service.
+-- Take feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Complete two wbt's today
+
+2. Exchange mail:
+   Uname: eid
+   pwd: india domain pwd
+
+3. FEEDBACK PROCESS : 
+    1.Go to Ultimatix -> Applications -> Learning & collaboration -> iEvolve -> Learners Portal and go to top left corner hamburger icon.
+    2.Go to Certifications -> “Submit Immediate Feedback”
+    3.Enter the Feedback curricula ID (to be taken from Feedback Mapping file shared on iON/KNOME community) 
+    in the field “Enter certificate name/Id” and click on “Search”.
+    4.Click on “Submit” after the course is displayed.
+    5.Take the feedback by entering the Importance score for each question (it can be 5) and Rating on the questions 
+    (From a scale to 1 to 4 it can be anyone as per your choice). Then drag down complete all the question and 
+    click on “Submit”. REMEMBER NOT TO CLICK ON ADD ROW OPTION.
+
+4. 1-7 is mandatory before friday ==============>>>>>>>>  21939 43893 7408 before today
+   Sr No.    Course Details    Course Ids    Pre-requisite Course Id    Timeline for closure             
+   I    Information Security Awareness – Main Course_LCS_WBT     43893    Not Any    Day 3
+   Ii    iSecurity Quiz_WBT    7408    43893    Day 3
+   Iii    GDPR_WBT (having prerequisite - 64091- > Data Privacy – English WBT)    55220    64091    Day 3
+   iv    Process : Basic IP Awareness WBT    67539    Not Any    Day 4
+   V    Process : Basic IP Awareness Assessment    67501    67539    Day 4
+   Vi    Tata Code of Conduct: Awareness and Allegiance     21939    Not Any    Day 4
+   Vii    Awareness on Policy for Prevention of Sexual Harassment _LCS_WBT     2735    Not Any    Day 5
+
+
+   ==================later beforesunday====================
+   Viii    Process: Agile for Beginners_WBT     56031    Not Any        Y    Day 5
+   ix    Best Practice for working in SBWS mode    62297    Not Any        Y    Day 5
+
+
+5. SBWS UNDERTAKING ACCEPTANCE
+Response -
+For SBWS undertaking acceptance process,
+Only Once you receive the asset, complete the associate acceptance process on
+Ultimatix ->Applications ->Utilities & Infrastructure-> Inward Outward Material Movement Tracker -> Associate acceptance 
+And then go to ultimatix ->application -> employee services -> GESS -> responsibilities -> iTalent Responsibilities -> My Worklist 
+Click edit button in the sbws undertaking tab
+Complete the process by entering valid address details, asset acceptance status should show compliant 
+And SBWS utility app should show compliant 
+Click submit and complete the process.
+
+
+
+
+
+6. Facilitation Team email ID : xperience.support@tcs.com
+
+
+7. Timesheet details : to filled under unassigned task :  Enter WON Number: (XXXXX)
+   Task Category : 
+   Training & Development
+   Task Name : 
+   Xperience Learning
+   Charge Type*:
+   Non-Billable : 9 hrs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================================20 April========================================
+
+
+===================================DO NOT DELETE=============================================
+
+1. How to check feedback for the presentation
+   
+
+  1. Go to Ultimatix -> iEvolve Learner -> My Learnings -> In Progress 
+  2. Look for the Course having Course ID: 52401 & Click on Continue
+  3. Launch the Course
+  4. Launch the Assignment Module having the ‘Start Date of your Batch’ eg. ‘5th April 2021 Batch’
+  5. On the day of your Release follow Steps 1 to 4 once again, you will get “View my results” tab 
+     where you can see your Speaking Skills feedback & Levels
+
+
+  Please Note:
+• You will get to see your feedback only if you launch the Assignment Module having the ‘Start 
+Date of your Batch’.
+• Please try again later if you are not able to launch it right away
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============================================26 April===========================================================
+
+from spradha j to All Participants:
+https://git-scm.com/downloads
+from spradha j to All Participants:
+https://www.cygwin.com/
+
+
+https://www.sanfoundry.com/unix-multiple-choice-questions-answers/
+
+
+
+
+
+
+
+
+
+
+1. Syllabus: 
+   plsql-5, sql-5,ui-10, unix-5, java-5, 
+   java sbq-35, unix sbq -15
+
+2. livesql.oracle.com
+
+
+
+
+https://www.w3schools.com/sql/
+https://www.tutorialspoint.com/sql/index.htm ======================================>>>>>>>>>>>>>>>>> for mcq's
+
+
+
+
+for unix ============================> tutorial point
+
