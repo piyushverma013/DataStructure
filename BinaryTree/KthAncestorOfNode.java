@@ -43,7 +43,7 @@ public class KthAncestorOfNode {
 	}
 	
 	
-	// function to find kth ancestor of given node in binary tree
+    // function to find kth ancestor of given node in binary tree
     public static int kthAncestor(Node root, int k, int node)
     {
         //Write your code here
