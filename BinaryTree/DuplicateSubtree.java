@@ -52,7 +52,7 @@ public class DuplicateSubtree {
         System.out.println();  
     }
     
-	// utility function to find root node of all duplicate subtree
+    // utility function to find root node of all duplicate subtree
     public static String duplicate(Node root, ArrayList<Integer> al, HashMap<String, Integer> map) {
         if(root == null)
           return "";
