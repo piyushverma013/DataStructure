@@ -33,7 +33,7 @@ public class DuplicateSubtreeWithSize2orMore {
 		return root;
 	}
 	
-	// function to find total duplicate subtree with size two or more
+    // function to find total duplicate subtree with size two or more
     public static void dupSub(Node root) {
     	
         HashMap<String, Integer> map = new HashMap<String, Integer>();
