@@ -25,7 +25,6 @@ public class TreeIsomorphic {
 		  System.out.println("Yes, two trees are isomorphic");
 		else
 		  System.out.println("No, two trees are not isomorphic");
-		
 	}
 	
 	// function to create tree1
