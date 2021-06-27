@@ -68,7 +68,6 @@ public class TreeIsomorphic {
 		
 		boolean a = isIsomorphic(root1.left, root2.left) && isIsomorphic(root1.right, root2.right);
 		boolean b = isIsomorphic(root1.left, root2.right) && isIsomorphic(root1.right, root2.left);
-		
 		return a || b;	
 	}
 }
