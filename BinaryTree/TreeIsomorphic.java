@@ -59,7 +59,6 @@ public class TreeIsomorphic {
 	
 	// function to check if two trees are isomorphic or not
 	static boolean isIsomorphic(Node root1, Node root2) {
-		
 		if(root1 == null && root2 == null)
 			return true;
 		if(root1 == null || root2 == null)
@@ -70,7 +69,6 @@ public class TreeIsomorphic {
 		boolean a = isIsomorphic(root1.left, root2.left) && isIsomorphic(root1.right, root2.right);
 		boolean b = isIsomorphic(root1.left, root2.right) && isIsomorphic(root1.right, root2.left);
 		
-		return a || b;
-		
+		return a || b;	
 	}
 }
