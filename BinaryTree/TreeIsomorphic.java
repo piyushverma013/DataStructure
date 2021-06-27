@@ -22,9 +22,9 @@ public class TreeIsomorphic {
 		System.out.println("Root node is: "+root2.data);
 		
 		if (isIsomorphic(root1, root2) == true)
-            System.out.println("Yes, two trees are isomorphic");
-        else
-            System.out.println("No, two trees are not isomorphic");
+		  System.out.println("Yes, two trees are isomorphic");
+		else
+		  System.out.println("No, two trees are not isomorphic");
 		
 	}
 	
