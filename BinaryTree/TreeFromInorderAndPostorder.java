@@ -26,7 +26,7 @@ public class TreeFromInorderAndPostorder {
 		}
 		Node root = buildTree(inorder, postorder, n);
 		
-		System.out.println("Elements in Postorder are: ");
+		System.out.println("Elements in Preorder are: ");
 		preOrder(root);
 	}
 	
