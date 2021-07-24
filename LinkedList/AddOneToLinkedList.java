@@ -42,7 +42,7 @@ public class AddOneToLinkedList {
 		printList(ans);
 	}
 	
-	// Function to add 1 at the LinkedList
+    // Function to add 1 at the LinkedList
     public static Node addOne(Node head) 
     { 
         //code here.
