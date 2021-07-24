@@ -43,7 +43,7 @@ public class AddOneToLinkedList {
 	}
 	
 	// Function to add 1 at the LinkedList
-	public static Node addOne(Node head) 
+    public static Node addOne(Node head) 
     { 
         //code here.
         if(head == null)
@@ -61,7 +61,6 @@ public class AddOneToLinkedList {
             curr.data += 1;
             return head;
         }
-        
         if(prev == null) {
             prev = new Node(0);
             prev.next = head;
