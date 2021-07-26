@@ -114,14 +114,19 @@ public class DeleteLoopinSLL {
 
         if (slow_ptr == fast_ptr) {
             slow_ptr = head;
-            while (slow_ptr.next != fast_ptr.next) {
-            	slow_ptr = slow_ptr.next;
-            	fast_ptr = fast_ptr.next;
-            }
- 
+	    if(slow_ptr != fast_ptr) {
+		    while (slow_ptr.next != fast_ptr.next) {
+			    slow_ptr = slow_ptr.next;
+            	            fast_ptr = fast_ptr.next;
+		    }
             fast_ptr.next = null; /* remove loop */
-        }
-     
-    }
-
+	    }
+		
+	    else if(fast_ptr == slow_ptr) {
+		    while(slow_ptr.next != fast_ptr) {
+			    slow_ptr = slow_ptr.next;
+		    }
+		    slow_ptr.next = null;
+	    }
+      }
 }
