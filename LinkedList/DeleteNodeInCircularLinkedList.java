@@ -1,5 +1,4 @@
 // Delete a node from circular LinkedList
-
 // Input : 2->5->7->8->10->(head node)
 //         data = 5
 // Output : 2->7->8->10->(head node)
