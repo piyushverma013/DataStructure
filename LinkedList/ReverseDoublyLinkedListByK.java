@@ -8,7 +8,7 @@
 
 
   
-static Node reverseByN(Node head, int k)
+static Node reverseByK(Node head, int k)
 {
     if (head == null)
         return null;
@@ -31,7 +31,7 @@ static Node reverseByN(Node head, int k)
      
     if (count >= k)
     {
-        head.next = reverseByN(curr, k);
+        head.next = reverseByK(curr, k);
     }
     return newHead;
 }
