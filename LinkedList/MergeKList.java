@@ -21,7 +21,6 @@ class Solution
     //Function to merge K sorted linked list.
     Node mergeKList(Node[]arr,int K)
     {
-        //Add your code here.
         if(arr.length == 0)
           return null;
         return mergeKList1(arr, 0, arr.length-1);
