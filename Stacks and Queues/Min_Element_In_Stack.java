@@ -23,7 +23,7 @@ class Min_Element_In_Stack{
 	}
 	
 	public int pop(Stack<Integer> s)
-    {
+        {
             int v = s.peek();
             if(v >= min)
               return s.pop();
@@ -35,19 +35,19 @@ class Min_Element_In_Stack{
 	}
 	
 	public int min(Stack<Integer> s)
-    {
+        {
            return min;
 	}
 	
 	public boolean isFull(Stack<Integer>s, int n)
-    {
+        {
            if(s.size() == n)
              return true;
            return false;
 	}
 	
 	public boolean isEmpty(Stack<Integer>s)
-    {
+        {
            if(s.isEmpty())
              return true;
            return false;
